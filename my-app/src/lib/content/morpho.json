@@ -1,0 +1,29 @@
+{
+    "header1" : "Morphology",
+    "header2" : [
+        "Nouns",
+        "Adjectives",
+        "Pronouns",
+        "Numerals",
+        "Verbs",
+        "Adverbs",
+        "Prepositions",
+        "Conjunctions",
+        "Interjections",
+        "Determiners",
+        "Particles"
+    ],
+    "header3" : [
+        {
+            "header2": "Nouns",
+            "header3list" :[
+                "Countability",
+                "Number",
+                "Definiteness",
+                "Gender",
+                "Case"
+            ]
+        }
+    ]
+
+}
