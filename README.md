@@ -6,10 +6,6 @@ The website provides users with excercises of 4 main fields of study of English 
 
 Each page is assembled from svelte components. The database was initialy a json file, replaced with a ts file, which is now being replaced by a Mongo database. It is planned to add interactive excercises and comment section in the future.
 
-## **Usage**
-
-Explain how to use the website, including any important commands, configurations, or settings. Provide examples or screenshots if applicable.
-
 ## **Technologies Used**
 
 JavaScript, TypeScript, Tailwind, Svelte, MongoDB
